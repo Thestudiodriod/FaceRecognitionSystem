@@ -1,0 +1,3 @@
+face-recognition==1.3.0
+sqlalchemy==1.2.19
+opencv-python==4.6.0
